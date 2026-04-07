@@ -1,0 +1,10 @@
+{
+  "name": "planora",
+  "version": "1.0.0",
+  "description": "Planora by PROPVR - Spatial OS",
+  "scripts": {
+    "start": "npx serve public",
+    "build": "echo 'Static site — no build step required'"
+  },
+  "private": true
+}
